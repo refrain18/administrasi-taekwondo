@@ -8,15 +8,15 @@
 </head>
 <body>
 
-<table>
-    <tr>
-        <td>No</td>
-        <td>Nama</td>
-        <td>Usia</td>
-        <td>Pekerjaan</td>
-        <td>Alamat</td>
-        <td>Aksi</td>
-    </tr>
-</table>
+<ul>
+    <li>Biodata</li>
+    <li>Pembayaran</li>
+    <li>Teknik</li>
+    <li>Ujian</li>
+    <li>Gasuku</li>
+    <li>Pertandingan</li>
+    <li>Jadwal Latihan</li>
+    <li>Tempat Latihan</li>
+</ul>
 </body>
 </html>
