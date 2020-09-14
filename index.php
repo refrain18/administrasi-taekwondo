@@ -8,6 +8,16 @@
 </head>
 <body>
 
+<ul>
+    <li> <a href="#">Biodata</a></li>
+    <li><a href="#">Pembayaran</a></li>
+    <li><a href="#">Teknik</a></li>
+    <li><a href="#">Ujian</a></li>
+    <li><a href="#">Gasuku</a></li>
+    <li><a href="#">Pertandingan</a></li>
+    <li><a href="#">Jadwal Latihan</a></li>
+    <li><a href="#">Tempat Latihan</a></li>
+</ul>
     
 </body>
 </html>
