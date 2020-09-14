@@ -9,14 +9,14 @@
 <body>
 
 <ul>
-    <li>Biodata</li>
-    <li>Pembayaran</li>
-    <li>Teknik</li>
-    <li>Ujian</li>
-    <li>Gasuku</li>
-    <li>Pertandingan</li>
-    <li>Jadwal Latihan</li>
-    <li>Tempat Latihan</li>
+    <li> <a href="#">Biodata</a></li>
+    <li><a href="#">Pembayaran</a></li>
+    <li><a href="#">Teknik</a></li>
+    <li><a href="#">Ujian</a></li>
+    <li><a href="#">Gasuku</a></li>
+    <li><a href="#">Pertandingan</a></li>
+    <li><a href="#">Jadwal Latihan</a></li>
+    <li><a href="#">Tempat Latihan</a></li>
 </ul>
 </body>
 </html>
