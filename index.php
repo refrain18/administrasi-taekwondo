@@ -8,6 +8,15 @@
 </head>
 <body>
 
-    
+<table>
+    <tr>
+        <td>No</td>
+        <td>Nama</td>
+        <td>Usia</td>
+        <td>Pekerjaan</td>
+        <td>Alamat</td>
+        <td>Aksi</td>
+    </tr>
+</table>
 </body>
 </html>
